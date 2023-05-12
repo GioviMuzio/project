@@ -6,5 +6,6 @@ public class main {
         for(;;){
             System.out.println("Raccoon");
         }
+        int i;
     }
 }
